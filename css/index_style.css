@@ -1,0 +1,12 @@
+
+
+.countres{
+    list-style: none;
+}
+.countres .country-link{
+    text-decoration: none;
+}
+
+.news-header:hover{
+    color: red;
+}
